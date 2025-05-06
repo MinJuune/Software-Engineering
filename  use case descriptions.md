@@ -117,7 +117,7 @@ Extensions:
 |              |                 |
 |              |                 |
 
-Extensions: 
+Extensions:   
 None
 
 12. Use Case : 자전거 리스트 조회
@@ -129,8 +129,8 @@ None
 |              |                 |
 |              |                 |
 
-Extensions: 
-step 2 이후 관리자가 자전거 항목을 삭제할 수 있음
+Extensions:    
+step 2 이후 관리자가 자전거 항목을 삭제할 수 있음  
 step 2 이후 관리자가 자전거의 상태(사용가능 / 수리 중)을 수정할 수 있음
 
 13. Use Case : 자전거 상세정보 조회
@@ -142,7 +142,7 @@ step 2 이후 관리자가 자전거의 상태(사용가능 / 수리 중)을 수
 |              |                 |
 |              |                 |
 
-Extensions: 
+Extensions:   
 None
 
 14. Use Case : 자전거 즉시대여
@@ -154,7 +154,7 @@ None
 |              |                 |
 |              |                 |
 
-Extensions: 
+Extensions:   
 step 2 이후 사용가능한 자전거 없을 시 회원이 예약대기를 신청할 수 있음
 
 15. Use Case : 대여정보 조회
@@ -166,7 +166,7 @@ step 2 이후 사용가능한 자전거 없을 시 회원이 예약대기를 신
 |              |                 |
 |              |                 |
 
-Extensions: 
+Extensions:   
 None
 
 16. Use Case
