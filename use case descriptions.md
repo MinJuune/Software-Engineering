@@ -169,7 +169,7 @@ step 2 이후 사용 가능한 자전거가 없을 시 회원이 예약대기를
 |              |                 |
 
 Extensions: step 2 이후 특정 자전거를 선택하여 자전거 반납을 할 수 있음  
-None
+Extensions: 자전거 반납 이후 원하는 경우 식당을 추천받아서 예약할 수 있음
 
 16. Use Case
 
@@ -226,16 +226,16 @@ Extensions:
 
 Extensions:
 
-21. Use Case
+21. Use Case : 자전거 예약 대기 정보 조회 
 
 | Actor Action | System Response |
 |--------------|-----------------|
-|              |                 |
+| 1. 회원이 자전거 예약 대기 정보 클릭              | 2. 자전거 예약 대기 리스트 출력                |
 |              |                 |
 |              |                 |
 |              |                 |
 
-Extensions:
+Extensions: step2 이후 예약 대기에 대해 취소할 수 있음
 
 22. Use Case
 
