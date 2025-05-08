@@ -349,7 +349,7 @@ Extensions:
 
 | Actor Action|System Response|
 |       4. 요금 조회 버튼을 선택한다.  ||
-|              5. 요금 정보(대여시간, 요금) 리스트를 출력한다.|
+|              5. 요금 정보(대여시간, 요금)를 출력한다.|
 
 Extensions:
 
