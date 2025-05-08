@@ -100,16 +100,6 @@ Extensions:
 Extensions: Step 2 자전거가 남아있는 경우, 즉시 대여할 수 있다
             Step 2 자전거가 없는 경우, 예약 대기할 수 있다
 
-10. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
 
 11. Use Case : 자전거 등록
 
@@ -177,50 +167,6 @@ Extensions:
 
 Extensions: 
 
-17. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-18. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-19. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-20. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
 21. Use Case : 자전거 예약 대기 정보 조회 
 
 | Actor Action | System Response |
@@ -247,83 +193,6 @@ Extensions:
 | 1. 자전거 대여정보 조회 버튼을 클릭           | 2. 대여중인 자전거 리스트 및 정보 (대여소 이름, 대여소 위치, 자전거 ID, 자전거 제품, 자전거 유형) 출력       |                                        |
 | 3. (option) 식당 예약 버튼 클릭               |                                                                                                        | 4. 식당 추천 및 예약       |
 
-
-Extensions:
-
-24. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-25. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-26. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-27. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-28. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-29. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-30. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
 
 Extensions:
 
@@ -380,59 +249,5 @@ Extensions: step 2 이후 자전거 정보를 지역별로 조회할수 있다.
 |              |                 |
 |              |                 |
 
-Extensions: step 2 이후 조회 단위를 1일, 1달, 1년으로 조정할 수 있다.
+Extensions : step 2 이후 조회 범위를 일 ,월, 년 단위로 조정할 수 있다.
 
-36. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-37. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-38. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-39. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
-
-40. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
