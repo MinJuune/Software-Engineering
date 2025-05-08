@@ -58,16 +58,26 @@ Extensions:
 | Actor Action | System Response |
 |--------------|-----------------|
 | 1. 관리자가 대여소 목록 조회를 요청한다 | 2. 시스템이 등록된 대여소 리스트를 출력한다 |
-| 3. 관리자가 특정 대여소를 선택한다 | 4. 시스템이 선택된 대여소의 상세 정보를 출력한다 |
+| |  |
 |              |                 |
 |              |                 |
 
 Extensions: 
     Step 2 관리자가 리스트에서 특정 대여소 항목을 선택해 삭제할 수 있다
-    Step 2 관리자가 리스트에서 특정 대여소 항목을 선택해 상세 정보를 확인할 수 있다
 
 
-7. Use Case : 대여소 검색
+7. Use Case : 대여소 상세 내용
+
+| Actor Action | System Response |
+|--------------|-----------------|
+| 1. 관리자가 대여소 목록에서 특정 대여소를 선택한다. | 2. 시스템이 선택된 대여소의 상세 내용을 출력한다 |
+|              |                 |
+|              |                 |
+|              |                 |
+
+Extensions:
+
+8. Use Case : 대여소 검색
 
 | Actor Action | System Response |
 |--------------|-----------------|
@@ -78,7 +88,7 @@ Extensions:
 
 Extensions:
 
-8. Use Case : 대여소 상세 정보
+9. Use Case : 대여소 상세 정보
 
 | Actor Action | System Response |
 |--------------|-----------------|
@@ -89,17 +99,6 @@ Extensions:
 
 Extensions: Step 2 자전거가 남아있는 경우, 즉시 대여할 수 있다
             Step 2 자전거가 없는 경우, 예약 대기할 수 있다
-
-9. Use Case
-
-| Actor Action | System Response |
-|--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
-
-Extensions:
 
 10. Use Case
 
