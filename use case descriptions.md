@@ -171,9 +171,9 @@ step 2 이후 사용 가능한 자전거가 없을 시 회원이 예약대기를
 |              |                 |
 
 Extensions: step 2 이후 특정 자전거를 선택하여 자전거 반납을 할 수 있음  
-Extensions: 자전거 반납 이후 원하는 경우 식당을 추천받아서 예약할 수 있음
 
-16. Use Case
+
+1.  Use Case
 
 | Actor Action | System Response |
 |--------------|-----------------|
@@ -239,14 +239,14 @@ Extensions:
 
 Extensions: step2 이후 예약 대기에 대해 취소할 수 있음
 
-22. Use Case
+22. Use Case : 자전거 반납
 
-| Actor Action | System Response |
+| Actor Action 1 | System Response | Actor Action 2 | Actor Action 3 | Actor Action 4 | 
 |--------------|-----------------|
-|              |                 |
-|              |                 |
-|              |                 |
-|              |                 |
+| 1. 자전거 대여정보 조회 버튼을 클릭한다.    | 2. 대여중인 자전거 리스트 및 정보(대여소 이름, 대여소 위치, 자전거 ID, 자전거 제품,자전거 유형) 출력 |                 |                 |                 |
+| 3.자전거 반납 버튼 클릭             | 4. 반납 완료 메시지 출력                   | 5. 자전거 반납 후 원하는 경우 사용자 위치 정보 기반으로 근처 식당 추천 받아서 예약             | 6. 해당 자전거에 대기 예약한 회원이 있는 경우 대기 1순위 회원에게 예약 메시지 보냄                 | 7. 자전거 반납시 요금 자동 결제                |
+|              |                 |                 |                 |                 |
+|              |                 |                 |                 |                 |
 
 Extensions:
 
