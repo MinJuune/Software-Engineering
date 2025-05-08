@@ -7331,7 +7331,7 @@
 											"parentStyle": true,
 											"left": 550.5,
 											"top": 1196,
-											"width": 110,
+											"width": 113,
 											"height": 13,
 											"text": "대여소 상세 페이지"
 										},
@@ -7369,7 +7369,7 @@
 									"parentStyle": true,
 									"left": 545.5,
 									"top": 1189,
-									"width": 121.2236328125,
+									"width": 123,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqp7wYdwHOno="
@@ -7475,7 +7475,7 @@
 							"containerChangeable": true,
 							"left": 520,
 							"top": 1184,
-							"width": 171,
+							"width": 174,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqp7wYdwGhu8="
