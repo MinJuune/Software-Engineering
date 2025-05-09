@@ -1,0 +1,88 @@
+[함형준] Fri May 9 13:26:09 2025 +0900 description 최종수정 c1524da
+[함형준] Fri May 9 13:23:52 2025 +0900 description 최종수정 457d741
+[jooyoung7208] Thu May 8 23:10:39 2025 +0900 Update use case descriptions.md cd3f1a8
+[jooyoung7208] Thu May 8 23:09:00 2025 +0900 Update use case descriptions.md 31fa3d9
+[jooyoung7208] Thu May 8 23:05:59 2025 +0900 Update use case descriptions.md 482bd3c
+[MinJuune] Thu May 8 23:02:56 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering e4ede2a
+[jooyoung7208] Thu May 8 23:02:41 2025 +0900 Update use case descriptions.md bcd4b2f
+[MinJuune] Thu May 8 23:02:37 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering d7bff99
+[MinJuune] Thu May 8 23:02:24 2025 +0900 식당 예약 기능 추가 50889de
+[ddhi7] Thu May 8 22:58:33 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering 81876c5
+[ddhi7] Thu May 8 22:58:16 2025 +0900 fix : 대여소 관련 usecase_description 수정 72b11ed
+[jooyoung7208] Thu May 8 22:56:33 2025 +0900 Update use case descriptions.md 65b205b
+[jooyoung7208] Thu May 8 22:54:48 2025 +0900 Update use case descriptions.md 8187fa7
+[jooyoung7208] Thu May 8 22:54:17 2025 +0900 Update use case descriptions.md 48be9e6
+[함형준] Thu May 8 22:52:06 2025 +0900 수정 da0b56a
+[jooyoung7208] Thu May 8 22:41:42 2025 +0900 Update use case descriptions.md 62274ff
+[jooyoung7208] Thu May 8 22:35:16 2025 +0900 Update use case descriptions.md 2bcce1a
+[MinJuune] Thu May 8 22:24:46 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering c30eef5
+[MinJuune] Thu May 8 22:24:18 2025 +0900 다이어그램 최종 d3f355a
+[함형준] Thu May 8 22:06:38 2025 +0900 use case description 수정 c376400
+[MinJuune] Thu May 8 22:03:57 2025 +0900 use_case_diagram 최종 c16154e
+[MinJuune] Thu May 8 19:30:41 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering 445adef
+[MinJuune] Thu May 8 19:28:30 2025 +0900 use_case_diagram 최종 1629371
+[ddhi7] Thu May 8 19:21:46 2025 +0900 fix : 대여소 관련 usecase_description 수정 c526e0c
+[ddhi7] Thu May 8 16:51:28 2025 +0900 fix : 대여관련 requirement_list 수정 4dafbc2
+[jooyoung7208] Thu May 8 16:37:08 2025 +0900 Update use case descriptions.md acbff1b
+[MinJuune] Thu May 8 16:36:26 2025 +0900 use case diagram 최종 fbcd445
+[MinJuune] Thu May 8 16:34:27 2025 +0900 use_case_diagram 최종 e842f8f
+[jooyoung7208] Thu May 8 16:32:11 2025 +0900 Update requirement_list.md 1625187
+[MinJuune] Thu May 8 13:49:10 2025 +0900 자전거 반납 기능 수정 468eefa
+[MinJuune] Thu May 8 13:47:06 2025 +0900 자전거 반납 기능 수정 8ea5a21
+[MinJuune] Thu May 8 13:20:31 2025 +0900 diagram 수정 251394d
+[MinJuune] Thu May 8 12:18:31 2025 +0900 자전거 반납 및 예약 대기 취소 기능 수정 c89017a
+[MinJuune] Thu May 8 11:20:42 2025 +0900 식당 추천 서비스 수정 40baad4
+[MinJuune] Thu May 8 11:19:45 2025 +0900 식당 추천 서비스 수정 500d4a7
+[MinJuune] Wed May 7 21:35:49 2025 +0900 docs: use case diagram 틀 cdf7183
+[함형준] Wed May 7 20:33:50 2025 +0900 requirement list 자전거관련 항목수정 054a349
+[함형준] Wed May 7 20:25:07 2025 +0900 use case diagram upload 0876711
+[ddhi7] Wed May 7 15:39:14 2025 +0900 fix : 대여소 관련 use case diagrams 수정 86694c9
+[ddhi7] Wed May 7 15:37:11 2025 +0900 fix : 대여소 관련 requirement_list 수정 2a8c381
+[ddhi7] Wed May 7 15:35:48 2025 +0900 fix : 대여소 관련 requirement_description 수정 3f37d2f
+[ddhi7] Wed May 7 14:42:40 2025 +0900 fix : 대여소 관련 requirement_list 수정 307ee70
+[MinJuune] Wed May 7 11:35:43 2025 +0900 docs: 자전거 예약 대기 취소 추가, 자전거 반납 및 식당 예약 서비스 연계 기능 추가 1e9e3c0
+[MinJuune] Wed May 7 11:12:00 2025 +0900 modify: 식당 예약 기능 추가 78ec008
+[MinJuune] Wed May 7 11:09:41 2025 +0900 modify: 식당 예약 기능 추가 59bf0eb
+[MinJuune] Wed May 7 08:52:29 2025 +0900 docs: 예약 및 반납 연계 기능 추가 d951a60
+[ddhi7] Wed May 7 00:40:48 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering bb49259
+[ddhi7] Wed May 7 00:40:29 2025 +0900 docs : 로그인/회원가입 및 대여 관련 use case diagrams 4399789
+[jooyoung7208] Wed May 7 00:07:50 2025 +0900 usecase 본인 분량입니다 56756eb
+[jooyoung7208] Tue May 6 23:55:12 2025 +0900 Update use case descriptions.md 20ce119
+[jooyoung7208] Tue May 6 23:49:41 2025 +0900 Update  use case descriptions.md 9e38c00
+[jooyoung7208] Tue May 6 22:59:38 2025 +0900 Update requirement_list.md 196cb8f
+[ddhi7] Tue May 6 22:56:20 2025 +0900 docs : 로그인/회원가입 및  대여 관련 use case descriptions 4f795f4
+[함형준] Tue May 6 21:38:56 2025 +0900 잘못push된 파일 삭제 c3d77e5
+[함형준] Tue May 6 21:35:34 2025 +0900 use case descriptions 수정 c202f41
+[함형준] Tue May 6 21:30:59 2025 +0900 use case descriptions 수정 a5d5e06
+[함형준] Tue May 6 21:28:12 2025 +0900 use case descriptions 초기작성 52c2d76
+[ddhi7] Tue May 6 19:33:28 2025 +0900 fix : 대여소 관련 requirement_list 수정 ab4f2aa
+[MinJuune] Tue May 6 17:35:37 2025 +0900 use case descriptions 형식 변경 093a84a
+[MinJuune] Tue May 6 17:23:09 2025 +0900 use case descriptions 형식 변경 a88f6b0
+[jooyoung7208] Tue May 6 16:53:57 2025 +0900 Update requirement_list.md 710b759
+[jooyoung7208] Tue May 6 16:46:52 2025 +0900 Update requirement_list.md a93db08
+[ddhi7] Tue May 6 16:41:50 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering bdcd843
+[ddhi7] Tue May 6 16:41:36 2025 +0900 fix : 대여소 관련 requrement_list 수정 c57e45b
+[MinJuune] Tue May 6 16:25:22 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering c6d551b
+[MinJuune] Tue May 6 16:24:51 2025 +0900 docs:예약 및 반납 연계 기능 f40bef9
+[jooyoung7208] Tue May 6 16:22:35 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering 2988252
+[jooyoung7208] Tue May 6 16:22:20 2025 +0900 깨진거 다시 올림 ffe7dfc
+[함형준] Tue May 6 16:20:40 2025 +0900 요구사항리스트 수정 307af2c
+[jooyoung7208] Tue May 6 16:16:16 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering 845c775
+[jooyoung7208] Tue May 6 16:15:58 2025 +0900 요구사항 생성 bd0dd24
+[함형준] Tue May 6 16:15:04 2025 +0900 requirement list 초기작성 90b1b28
+[ddhi7] Tue May 6 16:12:52 2025 +0900 docs : 회원 + 대여소 관련 기능 requirement_list e6dc716
+[ddhi7] Tue May 6 15:54:17 2025 +0900 요구사항 초기 설정 a69a46f
+[jooyoung7208] Tue May 6 15:52:26 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering 20024d9
+[jooyoung7208] Tue May 6 15:52:02 2025 +0900 요구사항 파일 줄 추가 aa3a78b
+[ddhi7] Tue May 6 15:50:58 2025 +0900 초기 템플릿 설정 1f93dbf
+[ddhi7] Tue May 6 15:46:39 2025 +0900 requirment_list 4d7f199
+[ddhi7] Tue May 6 15:45:40 2025 +0900 initial : requirement_list e348e84
+[MinJuune] Tue May 6 15:43:56 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering 7da35ac
+[MinJuune] Tue May 6 15:43:02 2025 +0900 requirement_list 05876fb
+[jooyoung7208] Tue May 6 15:28:23 2025 +0900 initial 4fa92ca
+[ddhi7] Tue May 6 15:26:11 2025 +0900 initial bc43f1d
+[MinJuune] Tue May 6 15:21:53 2025 +0900 Merge branch 'main' of https://github.com/MinJuune/Software-Engineering 9c5efc3
+[MinJuune] Tue May 6 15:20:45 2025 +0900 first 09325c7
+[함형준] Sun May 4 11:57:11 2025 +0900 함형준: commit_2 2c3b89f
+[함형준] Sun May 4 11:21:55 2025 +0900 함형준: commit_1 수행 71f6dd0
+[MinJuune] Fri May 2 00:05:22 2025 +0900 first commit 02d348a
