@@ -1,3 +1,5 @@
+github address: https://github.com/MinJuune/Software-Engineering
+
 [함형준] Fri May 9 13:26:09 2025 +0900 description 최종수정 c1524da
 [함형준] Fri May 9 13:23:52 2025 +0900 description 최종수정 457d741
 [jooyoung7208] Thu May 8 23:10:39 2025 +0900 Update use case descriptions.md cd3f1a8
